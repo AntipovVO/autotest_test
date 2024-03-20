@@ -1,0 +1,4 @@
+{
+  "using": "css selector",
+  "value": "input[class='search3__input mini-suggest__input']"
+}

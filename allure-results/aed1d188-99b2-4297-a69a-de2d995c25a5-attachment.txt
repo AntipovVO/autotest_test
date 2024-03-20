@@ -1,0 +1,4 @@
+{
+  "using": "css selector",
+  "value": "button[class='search3__button mini-suggest__button']"
+}
